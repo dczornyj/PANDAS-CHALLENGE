@@ -2,13 +2,14 @@
 
 ## Screenshots
 *District Summary:*:
-![Screenshot (178)](https://user-images.githubusercontent.com/101612220/193123808-0d5b348e-c5b1-40b7-9609-3269f470803a.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/101612220/193125659-e550ebf7-52b4-46aa-b153-ff70e69328c4.png)
+
 
 *School Summary*:
 ![Screenshot (179)](https://user-images.githubusercontent.com/101612220/193124245-61a52b8f-2039-4b25-8bad-24b19e888cec.png)
 
 *Test Results by Budget per Student*:
-![Screenshot (180)](https://user-images.githubusercontent.com/101612220/193124912-f7c46ef6-de07-41cb-ac51-80411bbd2cd1.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/101612220/193125511-c1bbdce0-4532-4cb0-9a72-ed26d5bb4821.png)
 
 *Test Results by School Size*:
 ![Screenshot (182)](https://user-images.githubusercontent.com/101612220/193125179-70d4b504-f5c0-4827-9d8f-c1abc845e2d3.png)
